@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Contest, mate</string>
+    <string name="score">Score, mate</string>
+    <string name="currentScore">SCORE APPEARS HERE, mate</string>
+    <string name="reset">RESET, mate</string>
+    <string name="steal">STEAL, mate</string>
+</resources>
